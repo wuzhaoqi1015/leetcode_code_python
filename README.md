@@ -9,6 +9,10 @@
 
 本仓库用于记录个人在 LeetCode 平台的刷题历程，包含各类算法题目的解题代码、思路分析和学习笔记。
 
+### 📊 刷题进度
+![alt text](image.png)
+
+最近一次更新：2025.11.03
 
 ### 📂 目录结构
 ```
@@ -25,12 +29,6 @@
 - JavaScript
 - (可根据实际情况调整)
 
-### 📊 刷题进度
-
-- 简单：0 题
-- 中等：0 题
-- 困难：0 题
-- **总计：0 题**
 
 ### 🔗 相关链接
 
@@ -47,6 +45,11 @@
 
 This repository contains my solutions to LeetCode problems, including code implementations, problem-solving approaches, and learning notes.
 
+### 📊 Progress
+![alt text](image.png)
+Last updated: 2025.11.03
+
+
 ### 📂 Repository Structure
 ```
 ├── Easy/          # Easy difficulty problems
@@ -56,18 +59,12 @@ This repository contains my solutions to LeetCode problems, including code imple
 
 ### 💡 Programming Languages
 
-- Python (First)
+- Python (Primary)
 - C
 - C++
 - JavaScript
 - (Adjust based on your preference)
 
-### 📊 Progress
-
-- Easy: 0 problems
-- Medium: 0 problems
-- Hard: 0 problems
-- **Total: 0 problems**
 
 ### 🔗 Useful Links
 
