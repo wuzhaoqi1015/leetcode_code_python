@@ -9,6 +9,9 @@
 
 本仓库用于记录个人在 LeetCode 平台的刷题历程，包含各类算法题目的解题代码、思路分析和学习笔记。
 
+个人主页：https://leetcode.cn/u/gowu/
+
+
 ### 📊 刷题进度
 ![alt text](image.png)
 
@@ -44,6 +47,8 @@
 ### 📝 About
 
 This repository contains my solutions to LeetCode problems, including code implementations, problem-solving approaches, and learning notes.
+
+Home Page：https://leetcode.cn/u/gowu/
 
 ### 📊 Progress
 ![alt text](image.png)
